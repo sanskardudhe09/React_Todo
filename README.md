@@ -1,3 +1,5 @@
+A simple todo application for mananging daily tasks using React js. Built while learning React library.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
